@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Damar Galih Anshary
-#### Software Engineering Student
+#### ✨ Software Engineering Student | Frontend Engineer ✨
 
 ### Hi there 👋
 
