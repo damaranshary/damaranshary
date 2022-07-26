@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ⚡ A passionate frontend engineer who likes gaming a lot
 
-🤔 Currently, I’m looking for an internship job
+🤔 Lonely ...
 
 Programming Language: JavaScript, Java, PHP, MySQL, C++ (can learn for more)
 
