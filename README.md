@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
+🔭 I’m currently working on Telkom Direktorat Digital Business as Developer
+
 🌱 I’m currently learning React, Typescript and Tailwind UI
 
 ⚡ A passionate frontend engineer who likes gaming a lot
