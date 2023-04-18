@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ACTIVE AGAIN UWUWU
+
 
 ### Damar Galih Anshary
 #### ✨ Software Engineering Student | Frontend Engineer ✨
