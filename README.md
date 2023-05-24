@@ -22,8 +22,6 @@ ACTIVE AGAIN UWUWU
 
 ### Hi there 👋
 
-🔭 Working at Telkom Direktorat Digital Business as Developer
-
 🌱 I’m currently learning React, Typescript and Tailwind UI
 
 ⚡ A passionate frontend engineer who likes gaming a lot
