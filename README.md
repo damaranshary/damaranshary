@@ -30,7 +30,7 @@ ACTIVE AGAIN UWUWU
 
 Programming Language: JavaScript, Java, PHP, MySQL, C++ (can learn for more)
 
-Tools I've used: React, TypeScript, VSCode, Android Studio, Git, Figma
+Tools I've used: React, TypeScript, VSCode, Android Studio, Selenium WebDriver, Git, Figma
 
 ### Connect me: 
 <div align="left">
