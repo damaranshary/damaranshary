@@ -22,15 +22,15 @@ ACTIVE AGAIN UWUWU
 
 ### Hi there 👋
 
-🌱 I’m currently learning React, Typescript and Tailwind UI
+🌱 I’m currently learning React, Typescript, Tailwind UI, and Spring
 
-⚡ A passionate frontend engineer who likes gaming a lot
+⚡ A passionate frontend engineer (will be a fullstack engineer soon) who likes gaming a lot
 
 🤔 Lonely ...
 
 Programming Language: JavaScript, Java, PHP, MySQL, C++ (can learn for more)
 
-Tools I've used: React, TypeScript, VSCode, Android Studio, Selenium WebDriver, Git, Figma
+Tools I've used: React, TypeScript, Selenium WebDriver, VSCode, IntelliJ IDEA, Android Studio, Git, Figma
 
 ### Connect me: 
 <div align="left">
