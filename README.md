@@ -18,13 +18,13 @@ ACTIVE AGAIN UWUWU
 
 
 ### Damar Galih Anshary
-#### ✨ Software Engineering Student | Frontend Engineer ✨
+#### ✨ Software Engineering Student | Frontend Engineer | Backend Engineer✨
 
 ### Hi there 👋
 
-🌱 I’m currently learning React, Typescript, Tailwind UI, and Spring
+🌱 I’m currently learning React, Typescript, Tailwind UI, and Springboot
 
-⚡ A passionate frontend engineer (will be a fullstack engineer soon) who likes gaming a lot
+⚡ A passionate Fullstack engineer who likes gaming a lot
 
 🤔 Lonely ...
 
